@@ -24,7 +24,7 @@ With this tool you can:
 <br>-Voicer names (VCRB)
 <br>
 ### Usage
-<br>Drag and drop the folder in which sound_def.bin or the sound bin files reside.
+<br>Drag and drop the folder in which sound_def.bin or the sound bin files reside. And to export back, drag sound_def_out or out_sound to the exe.
 <br><br>
 Alternatively, it can be used through commandline
 
